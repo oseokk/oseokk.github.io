@@ -1,1 +1,1 @@
-# oseokkim.github.io
+# oseokk.github.io

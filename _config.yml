@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Kim YeongSeok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "삐약이 디벨로퍼의 생존블로그"
   location         : "Seoul,Korea"
   email            : "rladudtjr20@gmail.com"
   links:
@@ -270,7 +270,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+  
 
 # HTML Compression
 # - http://jch.penibelst.de/

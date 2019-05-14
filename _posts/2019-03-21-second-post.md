@@ -1,5 +1,5 @@
 ---
-title: "천천히 배우는중~"
+title: "ㅋ천천히 배우는중~"
 date: 2019-03-21 13:14:28 -0400
 categories: Something
 ---
